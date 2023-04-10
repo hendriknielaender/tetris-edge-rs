@@ -1,1 +1,1 @@
-# rust-wasm
+# tetris-edge-rs
